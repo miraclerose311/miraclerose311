@@ -23,13 +23,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://wakatime.com/@tobi8068"><img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=tobi8068&theme=gotham&hide_border=true&layout=compact&langs_count=14&range=all_time" alt="@tobi's wakatime stats" /></a>
-  <a href="https://wakatime.com/@tobi8068"><img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobi8068&langs_count=14&layout=compact&theme=gotham&range=all_time&hide_border=true" alt="@tobi's wakatime stats" /></a>
-</p>
-<br/>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tobi8068&&style=flat-square" align="center" />
 </div>  
