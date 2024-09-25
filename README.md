@@ -17,5 +17,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tobi8068&&style=flat-square" align="center" />
-</div>  
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+</div> 
